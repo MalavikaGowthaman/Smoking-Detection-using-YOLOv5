@@ -1,0 +1,20 @@
+Develop a training model and follow the below steps - https://drive.google.com/drive/folders/1O8OYX9CLsQrAFJIj0OVbl_KVoZ6IvXql?usp=sharing
+
+
+1)conda create -n smoke_detect
+2)conda activate smoke_detect
+3)cd c:/.... navigate to the respective loc
+4)jupyter notebook
+5)install torch and torchvision for cpu
+# !pip3 install torch==2.3.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/test/cpu
+6)clone git for yolov5
+# !git clone https://github.com/ultralytics/yolov5
+7)install the requirements which is inside the yolov5
+# !cd yolov5 & pip install -r requirements.txt
+8) import lib
+9)load the model from ultralytics
+10)check the model by using given data 
+11)check using camera
+12)import torch and load the model which developed
+13)check using image 
+14)check using video
