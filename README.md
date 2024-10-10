@@ -1,5 +1,6 @@
 # Smoking Detection System Using YOLOv5
-![image](https://github.com/user-attachments/assets/ca249ea9-9082-4cf9-b4df-332247cc3c99)
+![image](https://github.com/user-attachments/assets/ca249ea9-9082-4cf9-b4df-332247cc3c99) ![image](https://github.com/user-attachments/assets/6c38fbf8-48bd-4517-b9cd-5d4d64c09825)
+
 
 This project implements a smoking and vaping detection system using the YOLOv5 object detection model. The system identifies instances of smoking or vaping in images, videos, or live camera feeds and triggers an alert upon detection.
 
